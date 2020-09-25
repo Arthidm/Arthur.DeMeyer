@@ -1,0 +1,46 @@
+.elementor-row-cards {
+  gap: 1rem;
+  margin-bottom: 1rem;
+  padding: 0px 43px 0;
+  width: 100%;
+  height: 70%;
+  display: flex;
+  align-content: center;
+  align-items: center;
+}
+
+
+.card-1 {
+  width: 50%;
+  text-align: center;
+  height: 250px;
+  background-color: #E73B36;
+}
+
+.card-1 p {
+  font-weight: bolder;
+  margin-top: 1rem;
+  color: rgb(226,226,226);
+  height: 8vh;
+  font-size: 2em;
+  top: 30px;
+  margin-bottom: 3px;
+}
+
+
+.card-2 {
+  width: 50%;
+  height: 250px;
+  text-align: center;
+  background-color: #06233B;
+}
+
+.card-2 p {
+  margin-top: 1rem;
+  font-weight: bolder;
+  color: rgb(226,226,226);
+  height: 8vh;
+  font-size: 2em;
+  top: 30px;
+  margin-bottom: 3px;
+}
